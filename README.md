@@ -2,7 +2,7 @@
 
 # Laptop Price Prediction using Machine Learning Algorithms
 
-This repository contains the code and documentation for a machine learning project focused on predicting laptop prices based on their specifications. The project was completed as part of the EE 559 course at [University Name].
+This repository contains the code and documentation for a machine learning project focused on predicting laptop prices based on their specifications. The project was completed as part of the EE 559 course at University of Southern California.
 
 ## Overview
 
